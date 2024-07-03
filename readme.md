@@ -32,11 +32,8 @@
 </div>
 
 ###
-
 ###
 
-<br clear="both">
-
-![snake gif](https://github.com/devdothades/devdothades/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/devdothades/devdothades/output/snake.svg" alt="Snake animation" />
 
 ###
